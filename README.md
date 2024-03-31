@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilany Karunathasan</h1>
 <h3 align="center">A passionate Data Scientist from ESILV Engineering School Paris.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/nilany-karunathasan-7b49691ba/</h3>
 <p align="left">
 </p>
 
